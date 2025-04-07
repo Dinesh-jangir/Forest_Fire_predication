@@ -1,9 +1,18 @@
-## 🏠 Home Prediction Model
+## 🔥 Forest Fire Prediction Model
 
-This project is focused on building a machine learning model to predict home-related outcomes, such as house prices or rent values, based on various features (e.g., location, size, number of rooms). While the dataset is currently not included in this repository due to privacy or availability reasons, the code is structured and ready for integration with any suitable housing dataset.
+This project focuses on predicting the likelihood or severity of forest fires based on environmental and meteorological factors such as temperature, humidity, wind speed, and rainfall. Accurate forest fire predictions can play a critical role in disaster preparedness and resource management.
 
-### 🔍 Project Goals
+> ⚠️ **Note:** The dataset is not included in this repository. Please connect your own dataset or use publicly available sources (e.g., Kaggle, UCI ML Repository).
 
-- Develop a predictive model using machine learning.
-- Understand the relationship between housing features and target variables.
-- Provide a modular, reproducible codebase for training and testing.
+---
+
+### 🎯 Project Objectives
+
+- Build a machine learning model to predict forest fires.
+- Analyze key factors influencing fire occurrence and spread.
+- Provide a reusable and modular codebase for experimentation and deployment.
+
+---
+
+### 📦 Project Structure
+
