@@ -12,4 +12,16 @@ This project aims to predict the likelihood or severity of forest fires based on
 
 ## 📂 Project Structure
 
-Forest_Fire_predication/ ├── .ebextensions/ # Configuration files for AWS Elastic Beanstalk ├── .vscode/ # Visual Studio Code settings ├── Notebook/ # Jupyter notebooks for data analysis and model development ├── dataset/ # Directory for dataset files (not included in the repository) ├── models/ # Saved machine learning models ├── templates/ # HTML templates for web application ├── application.py # Main application script (Flask app) └── README.md # Project documentation
+Forest_Fire_predication/
+│
+├── dataset/              # Directory for dataset files (not included in the repository)
+├── models/               # Saved machine learning models
+├── Notebook/             # Jupyter notebooks for data analysis and model development
+├── templates/            # HTML templates for the web application
+│
+├── application.py        # Main application script (Flask app)
+├── requirements.txt      # Python dependencies file
+├── README.md             # Project documentation
+│
+├── .ebextensions/        # Configuration files for AWS Elastic Beanstalk
+└── .vscode/              # Visual Studio Code settings
